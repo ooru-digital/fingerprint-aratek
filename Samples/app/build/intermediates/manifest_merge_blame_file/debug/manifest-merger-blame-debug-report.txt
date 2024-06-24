@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aratek.trustfinger.oneton_demo"
+4    android:versionCode="1011"
+5    android:versionName="3.1.0.6" > <!-- <application -->
+6    <!-- android:name=".MyApplication" -->
+7    <!-- android:allowBackup="true" -->
+8    <!-- android:icon="@drawable/ic_launcher" -->
+9    <!-- android:label="@string/one_to_n_app_name" -->
+10    <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
+11    <!-- android:supportsRtl="true" -->
+12    <!-- android:theme="@style/AppTheme" -->
+13    <!-- > -->
+14    <!-- <activity -->
+15    <!-- android:exported="true" -->
+16    <!-- android:name=".OneToNMainActivity" -->
+17    <!-- android:label="@string/one_to_n_app_name" -->
+18    <!-- android:launchMode="singleInstance" -->
+19    <!-- android:windowSoftInputMode="adjustPan|stateHidden" -->
+20    <!-- android:screenOrientation="sensor" -->
+21    <!-- android:configChanges="keyboardHidden|orientation|screenSize"> -->
+22    <!-- <intent-filter> -->
+23    <!-- <action android:name="android.intent.action.MAIN" /> -->
+24    <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+25    <!-- </intent-filter> -->
+26    <!-- <intent-filter> -->
+27    <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED"/> -->
+28    <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/> -->
+29    <!-- </intent-filter> -->
+30    <!-- &lt;!&ndash; USB &ndash;&gt; -->
+31    <!-- <intent-filter> -->
+32    <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" /> -->
+33    <!-- </intent-filter> -->
+34    <!-- <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" android:resource="@xml/device_filter" /> -->
+35    <!-- &lt;!&ndash; USB END &ndash;&gt; -->
+36    <!-- </activity> -->
+37    <!-- </application> -->
+38    <uses-sdk
+39        android:minSdkVersion="19"
+39-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml
+40        android:targetSdkVersion="32" />
+40-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml
+41
+42    <uses-feature
+42-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:6:5-8:35
+43        android:name="android.hardware.usb.host"
+43-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:7:9-49
+44        android:required="true" />
+44-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:8:9-32
+45
+46    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+46-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:10:5-81
+46-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:10:22-78
+47    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+47-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:11:5-80
+47-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:11:22-77
+48    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+48-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:12:5-76
+48-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:12:22-74
+49
+50    <application
+50-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:14:5-52:19
+51        android:name="com.aratek.trustfinger.MyApplication"
+51-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:15:9-38
+52        android:allowBackup="true"
+52-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:16:9-35
+53        android:debuggable="true"
+54        android:icon="@drawable/ic_launcher"
+54-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:17:9-45
+55        android:label="@string/app_name"
+55-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:18:9-41
+56        android:roundIcon="@mipmap/ic_launcher_round"
+56-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:19:9-54
+57        android:supportsRtl="true"
+57-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:20:9-35
+58        android:theme="@style/AppTheme" >
+58-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:21:9-40
+59        <activity
+59-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:23:9-51:20
+60            android:name="com.aratek.trustfinger.MainActivity"
+60-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:24:13-41
+61            android:configChanges="keyboardHidden|orientation|screenSize"
+61-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:25:13-74
+62            android:exported="true"
+62-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:26:13-36
+63            android:label="@string/app_name"
+63-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:27:13-45
+64            android:launchMode="singleInstancePerTask"
+64-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:28:13-55
+65            android:windowSoftInputMode="adjustPan|stateHidden" >
+65-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:29:13-64
+66            <intent-filter>
+66-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:30:13-34:29
+67                <action android:name="android.intent.action.MAIN" />
+67-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:31:17-69
+67-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:31:25-66
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:33:17-77
+69-->/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/AndroidManifest.xml:33:27-74
+70            </intent-filter>
+71            <!-- <intent-filter> -->
+72            <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED" /> -->
+73            <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" /> -->
+74            <!-- </intent-filter> -->
+75            <!-- <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" -->
+76            <!-- android:resource="@xml/device_filter" /> -->
+77
+78
+79            <!-- USB -->
+80            <!-- <intent-filter> -->
+81            <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" /> -->
+82            <!-- </intent-filter> -->
+83            <!-- <meta-data -->
+84            <!-- android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" -->
+85            <!-- android:resource="@xml/device_filter" /> -->
+86            <!-- USB END -->
+87
+88        </activity>
+89
+90        <meta-data
+90-->[com.android.support:design:26.1.0] /Users/atif.qamar/.gradle/caches/transforms-3/d6c1992a4a75b30f7e7b66412a148201/transformed/design-26.1.0/AndroidManifest.xml:26:9-28:38
+91            android:name="android.support.VERSION"
+91-->[com.android.support:design:26.1.0] /Users/atif.qamar/.gradle/caches/transforms-3/d6c1992a4a75b30f7e7b66412a148201/transformed/design-26.1.0/AndroidManifest.xml:27:13-51
+92            android:value="26.1.0" />
+92-->[com.android.support:design:26.1.0] /Users/atif.qamar/.gradle/caches/transforms-3/d6c1992a4a75b30f7e7b66412a148201/transformed/design-26.1.0/AndroidManifest.xml:28:13-35
+93        <meta-data
+93-->[android.arch.lifecycle:runtime:1.0.0] /Users/atif.qamar/.gradle/caches/transforms-3/7fb37f3825b3783014662e5de0ed884f/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+94            android:name="android.arch.lifecycle.VERSION"
+94-->[android.arch.lifecycle:runtime:1.0.0] /Users/atif.qamar/.gradle/caches/transforms-3/7fb37f3825b3783014662e5de0ed884f/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+95            android:value="27.0.0-SNAPSHOT" />
+95-->[android.arch.lifecycle:runtime:1.0.0] /Users/atif.qamar/.gradle/caches/transforms-3/7fb37f3825b3783014662e5de0ed884f/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+96    </application>
+97
+98</manifest>

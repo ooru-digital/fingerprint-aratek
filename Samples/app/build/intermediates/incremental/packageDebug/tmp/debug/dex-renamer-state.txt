@@ -1,0 +1,4 @@
+#Mon Jun 24 16:56:05 IST 2024
+base.0=/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

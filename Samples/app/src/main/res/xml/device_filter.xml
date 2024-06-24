@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--A400-->
+  <!--  <usb-device vendor-id="0x28ed" product-id="0x1023" />
+&lt;!&ndash;A600&ndash;&gt;
+    <usb-device vendor-id="0x28ed" product-id="0x1024" />-->
+
+<!--EM03-->
+    <usb-device vendor-id="0x28ed" product-id="0x2033" />
+    <usb-device vendor-id="0x28ed" product-id="0x2034" />
+    <usb-device vendor-id="0x28ed" product-id="0x2041" />
+    <usb-device vendor-id="0x28ed" product-id="0x2042" />
+    <usb-device vendor-id="0x28ed" product-id="0x2043" />
+
+<!--EMxxxx-->
+    <usb-device vendor-id="0x28ed" product-id="0x1061" />
+    <usb-device vendor-id="0x28ed" product-id="0x2021" />
+    <usb-device vendor-id="0x28ed" product-id="0x2022" />
+    <usb-device vendor-id="0x28ed" product-id="0x2023" />
+    <usb-device vendor-id="0x28ed" product-id="0x2024" />
+<!--RT610-->
+    <usb-device vendor-id="0x28ed" product-id="0x610a" />
+    <usb-device vendor-id="0x28ed" product-id="0x610b" />
+    <usb-device vendor-id="0x28ed" product-id="0x9005" />
+
+</resources>

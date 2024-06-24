@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_back4.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/back4.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f4_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f4_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_textview_quality.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/textview_quality.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_progress_3.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/progress_3.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_edittext_normal.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/edittext_normal.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_nofinger.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/nofinger.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_layout_item_fileselect.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/layout_item_fileselect.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/raw_is_fake_finger.wav.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/raw/is_fake_finger.wav"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f2_normal.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f2_normal.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_button_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_folder4.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/folder4.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_layout_fileselect2.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/layout_fileselect2.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/anim_shake.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_bg_corner.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/bg_corner.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_activity_oneton_main.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/activity_oneton_main.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f4_normal.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f4_normal.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_filedialog_folder.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/filedialog_folder.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_et_text_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/et_text_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_user_list_item.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/user_list_item.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_fragment_capture.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/fragment_capture.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f1_selected_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f1_selected_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/anim_cycle_7.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_fragment_identify.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/fragment_identify.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_view_global_settings.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/view_global_settings.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f3_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f3_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f1_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f1_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f5_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f5_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_arrow_down.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/arrow_down.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout-land_view_content.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout-land/view_content.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_arrow_3_down.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/arrow_3_down.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_progress_2.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/progress_2.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_dialog_set_user.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/dialog_set_user.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_one_to_n_user_list_item.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/one_to_n_user_list_item.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_file.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/file.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_chk_checked_enable.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/chk_checked_enable.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_fail.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/fail.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f3_selected_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f3_selected_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_view_content.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/view_content.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_one_to_n_view_content.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/one_to_n_view_content.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f2_selected_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f2_selected_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_logo.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f5_normal.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f5_normal.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/xml_device_filter.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_file4.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/file4.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f1_normal.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f1_normal.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_btn_text_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/btn_text_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f2_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f2_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_rdobtn_text_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/rdobtn_text_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/raw_please_press_your_finger.wav.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/raw/please_press_your_finger.wav"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f4_selected_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f4_selected_registed.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_layout_image_quality.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/layout_image_quality.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_filedialogitem.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/filedialogitem.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout-land_view_global_settings.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout-land/view_global_settings.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_fragment_device_info.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/fragment_device_info.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_warning.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/warning.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f3_normal.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f3_normal.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_edittext_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/edittext_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_filedialog_root.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/filedialog_root.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_thumb01.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/thumb01.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_fragment_enroll.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/fragment_enroll.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_rank_user_list_item.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/rank_user_list_item.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout-land_activity_oneton_main.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout-land/activity_oneton_main.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_fragment_verify.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/fragment_verify.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_edittext_disabled.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/edittext_disabled.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_fragment_1to_n_identify.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/fragment_1to_n_identify.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_chk_unchecked_enable.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/chk_unchecked_enable.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_chk_text_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/chk_text_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_success.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/success.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_checkbox_selector.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/raw_please_raise_your_finger.wav.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/raw/please_raise_your_finger.wav"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout_spinner_list_item.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout/spinner_list_item.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/raw_no_fingerprint_device_detected.wav.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/raw/no_fingerprint_device_detected.wav"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f5_selected.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f5_selected.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_progress_vertical_gradient_simple_shape.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/progress_vertical_gradient_simple_shape.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_edittext.9.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/edittext.9.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_filedialog_folder_up.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/filedialog_folder_up.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_chk_checked_disable.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/chk_checked_disable.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f1_selected.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f1_selected.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f4_selected.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f4_selected.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f3_selected.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f3_selected.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f2_selected.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f2_selected.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_progress_1.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/progress_1.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_chk_unchecked_disable.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/chk_unchecked_disable.png"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/layout-land_fragment_1to_n_identify.xml.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/layout-land/fragment_1to_n_identify.xml"
+    },
+    {
+        "merged": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/build/intermediates/merged_res/debug/drawable_f5_selected_registed.png.flat",
+        "source": "/Users/atif.qamar/Downloads/Aratek TrustFinger SDK For Android v3.1.0.6_2024.01.29/Samples/app/src/main/res/drawable/f5_selected_registed.png"
+    }
+]

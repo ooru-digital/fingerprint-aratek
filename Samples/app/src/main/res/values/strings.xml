@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">TrustFinger Demo v3.1.0.6</string>
+    <string name="app_version">v3.1.0.6</string>
+
+    <string name="one_to_n_app_version">@string/app_version</string>
+
+    <!-- global settings view-->
+    <string name="lable_device_type">Device Type</string>
+    <string name="lable_usb_device">USB Device</string>
+    <string name="lable_enabled_led">Enabled LED</string>
+    <string name="lable_anti_spoofing">Anti Spoofing</string>
+    <string name="btn_open_device">Open Device</string>
+    <string name="btn_close_device">Close Device</string>
+    <string name="sp_device_type_auto">AUTO</string>
+    <string name="sp_device_type_a400">A400</string>
+    <string name="sp_device_type_a600">A600</string>
+    <string name="sp_device_type_a700">A700</string>
+    <string name="sp_device_type_a620">A620</string>
+    <string name="sp_device_type_em4010">EM4010</string>
+    <string name="sp_device_type_em3011">EM3011</string>
+    <string name="sp_device_type_em2010">EM2010</string>
+    <string name="sp_device_type_em1920">EM1920</string>
+    <string name="sp_device_type_frt610">FRT610</string>
+    <string name="sp_device_type_em03_4010">EM034010</string>
+    <string name="sp_device_type_em03_3011">EM033011</string>
+    <string name="sp_usb_device_auto">AUTO</string>
+    <string name="lfd_level">LFD Level</string>
+    <string name="export_fake_finger_images">Export fake finger images</string>
+    <!-- Device Type Spinner -->
+    <string-array name="device_type">
+        <item>AUTO</item>
+        <item>A400</item>
+        <item>A600</item>
+        <item>EM4010</item>
+        <item>EM3011</item>
+        <item>EM2010</item>
+        <item>EM1920</item>
+        <item>FRT610</item>
+        <item>EM034010</item>
+        <item>EM033011</item>
+        <item>A700</item>
+        <item>FPK402</item>
+        <item>A620</item>
+    </string-array>
+
+    <!-- Device Type Spinner -->
+    <string-array name="spoofing_level">
+        <item>OFF</item>
+        <item>EXTRA_LOW</item>
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+        <item>ULTRA_HIGH</item>
+    </string-array>
+    <string-array name="feature_format">
+        <item>Aratek Bione</item>
+        <item>ISO 19794-2:2005</item>
+        <item>ANSI 378-2004</item>
+    </string-array>
+
+    <string-array name="image_format">
+        <item>BMP</item>
+        <item>WSQ</item>
+        <item>RAW</item>
+        <item>ISO 19794-4:2005</item>
+        <item>ANSI 381-2004</item>
+    </string-array>
+    <string-array name="finger_position">
+        <item>Left Thumb</item>
+        <item>Left Index Finger</item>
+        <item>Left Middle Finger</item>
+        <item>Left Ring Finger</item>
+        <item>Left Little Finger</item>
+        <item>Right Thumb</item>
+        <item>Right Index Finger</item>
+        <item>Right Middle Finger</item>
+        <item>Right Ring Finger</item>
+        <item>Right Little Finger</item>
+    </string-array>
+    <string-array name="security_level">
+        <item>Level1</item>
+        <item>Level2</item>
+        <item>Level3</item>
+        <item>Level4</item>
+        <item>Level5</item>
+    </string-array>
+
+    <!-- tab lable -->
+    <string-array name="tabs_name">
+        <item>Capture</item>
+        <item>Enroll</item>
+        <item>Verify</item>
+        <item>Identify</item>
+        <item>Device Info</item>
+    </string-array>
+    <!-- tab lable -->
+    <string-array name="oneton_tabs_name">
+        <item>OneToN_Identify</item>
+        <item>Device Info</item>
+    </string-array>
+
+    <!--<string name="tab_lable_capture">Capture</string>-->
+    <!--<string name="tab_lable_enroll">Enroll</string>-->
+    <!--<string name="tab_lable_verify">Verify</string>-->
+    <!--<string name="tab_lable_identify">Identify</string>-->
+    <!--<string name="tab_lable_device_info">Device Info</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Capture -->
+    <string name="lable_auto_save">Auto Save</string>
+    <string name="lable_storage_path">Storage Path</string>
+    <string name="lable_file_path">/sdcard/AratekTrustfinger/FingerData</string>
+    <string name="lable_feature_format">Feature Format</string>
+    <string name="lable_image_quality">Image Quality</string>
+    <string name="lable_image_format">Image Format</string>
+    <string name="lable_compression">Compression</string>
+    <string name="btn_select_file_path">…</string>
+    <string name="btn_start_capture">Start Capture</string>
+    <string name="btn_stop_capture">Stop Capture</string>
+
+    <!-- Enroll -->
+    <string name="lable_image_quality_threshold">Image Quality Threshold</string>
+    <string name="lable_user_id">User ID</string>
+    <string name="lable_user_first_name">FirstName</string>
+    <string name="lable_user_last_name">LastName</string>
+    <string name="btn_start_enroll">Start Enroll</string>
+    <string name="btn_stop_enroll">Stop Enroll</string>
+    <string name="lable_list_user_id">User ID</string>
+    <string name="lable_list_user_first_name">First Name</string>
+    <string name="lable_list_user_last_name">Last Name</string>
+    <string name="lable_list_user_finger_position">Finger Position</string>
+    <string name="no_enrolled_users">No enrolled users</string>
+    <string name="btn_import_user">Import User</string>
+    <string name="btn_remove_user">Remove User</string>
+    <string name="btn_remove_all">Remove All</string>
+    <string name="select_file">Select File</string>
+    <string name="lable_finger_position">Finger position</string>
+
+    <!-- Verify -->
+    <string name="lable_check_in_local_db">Check in local database(select a user)</string>
+    <string name="lable_file">File</string>
+    <string name="lable_security_level">Security Level</string>
+    <string name="btn_start_verify">Start Verify</string>
+    <string name="btn_stop_verify">Stop Verify</string>
+
+    <!-- Identify -->
+    <string name="lable_identify_threshold">Identify Threshold</string>
+    <string name="btn_start_identify">Start Identify</string>
+    <string name="btn_stop_identify">Stop Identify</string>
+    <string name="lable_list_rank">Rank</string>
+    <string name="lable_list_similarity">Similarity</string>
+    <string name="no_results">No results</string>
+
+    <!-- Device Info -->
+    <string name="lable_manufacturer">Manufacturer :</string>
+    <string name="lable_device_id">Device ID :</string>
+    <string name="lable_firmware_version">F/W Version :</string>
+    <string name="lable_serial_number">Serial # :</string>
+    <string name="lable_image_width">Image Width :</string>
+    <string name="lable_image_height">Image Height :</string>
+    <string name="lable_image_dpi">Image DPI :</string>
+    <string name="lable_model">Model :</string>
+    <string name="lable_web_site">http://www.aratek.co\nAratek Biometrics Technology Co.,Ltd.</string>
+
+    <!-- msg -->
+    <string name="msg_click_open_device_button">Click Open Device Button</string>
+    <string name="msg_select_a_finger">Select a finger!</string>
+</resources>

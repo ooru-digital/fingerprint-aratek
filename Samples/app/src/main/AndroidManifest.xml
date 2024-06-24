@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.aratek.trustfinger">
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:launchMode="singleInstancePerTask"
+            android:windowSoftInputMode="adjustPan|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+<!--            <intent-filter>-->
+<!--                <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED" />-->
+<!--                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />-->
+<!--            </intent-filter>-->
+            <!--            <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"-->
+            <!--                android:resource="@xml/device_filter" />-->
+
+            <!-- USB -->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />-->
+<!--            </intent-filter>-->
+<!--            <meta-data-->
+<!--                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"-->
+<!--                android:resource="@xml/device_filter" />-->
+            <!-- USB END -->
+
+        </activity>
+    </application>
+
+    <!--    <application-->
+    <!--        android:name=".MyApplication"-->
+    <!--        android:allowBackup="true"-->
+    <!--        android:icon="@drawable/ic_launcher"-->
+    <!--        android:label="@string/one_to_n_app_name"-->
+    <!--        android:roundIcon="@mipmap/ic_launcher_round"-->
+    <!--        android:supportsRtl="true"-->
+    <!--        android:theme="@style/AppTheme"-->
+
+    <!--        >-->
+    <!--        <activity-->
+    <!--            android:exported="true"-->
+    <!--            android:name=".OneToNMainActivity"-->
+    <!--            android:label="@string/one_to_n_app_name"-->
+    <!--            android:launchMode="singleInstance"-->
+    <!--            android:windowSoftInputMode="adjustPan|stateHidden"-->
+    <!--            android:screenOrientation="sensor"-->
+    <!--            android:configChanges="keyboardHidden|orientation|screenSize">-->
+    <!--            <intent-filter>-->
+    <!--                <action android:name="android.intent.action.MAIN" />-->
+    <!--                <category android:name="android.intent.category.LAUNCHER" />-->
+    <!--            </intent-filter>-->
+    <!--            <intent-filter>-->
+    <!--                <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED"/>-->
+    <!--                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/>-->
+    <!--            </intent-filter>-->
+    <!--            &lt;!&ndash; USB &ndash;&gt;-->
+    <!--            <intent-filter>-->
+    <!--                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />-->
+    <!--            </intent-filter>-->
+    <!--            <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" android:resource="@xml/device_filter" />-->
+    <!--            &lt;!&ndash; USB END &ndash;&gt;-->
+    <!--        </activity>-->
+    <!--    </application>-->
+</manifest>

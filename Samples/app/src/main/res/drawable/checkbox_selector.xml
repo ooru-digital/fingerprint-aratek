@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/chk_checked_enable" android:state_checked="true" android:state_enabled="true" />
+    <item android:drawable="@drawable/chk_checked_disable" android:state_checked="true" android:state_enabled="false" />
+    <item android:drawable="@drawable/chk_unchecked_enable" android:state_checked="false" android:state_enabled="true" />
+    <item android:drawable="@drawable/chk_unchecked_disable" android:state_checked="false" android:state_enabled="false" />
+</selector>

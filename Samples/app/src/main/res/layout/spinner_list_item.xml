@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tv_spinner"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:ellipsize="marquee"
+    android:paddingLeft="10dp"
+    android:gravity="left|center_vertical"
+    android:singleLine="true"
+    android:textSize="@dimen/spinner_text_size"
+    android:textColor="@drawable/et_text_selector"
+    tools:textColor="@android:color/black"
+    tools:text="Item"/>
